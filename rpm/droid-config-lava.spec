@@ -7,6 +7,8 @@
 %define vendor_pretty Xiaomi
 %define device_pretty Redmi 9
 
+%define android_version_major 10
+
 # Community HW adaptations need this
 %define community_adaptation 1
 
